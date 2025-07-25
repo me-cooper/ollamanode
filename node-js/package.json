@@ -1,0 +1,12 @@
+{
+  "name": "ollamanode",
+  "version": "1.0.0",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "me-cooper",
+  "license": "MIT",
+  "description": "Simple Node.JS wrapper to chat with ollama"
+}
